@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZRong-Liu
-- 👀 I’m interested in CrossFire
-- 🌱 I’m currently learning Opencv...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me QQ:460848070
+- 👋 Hi, I’m @Zirong-Liu.
+- 👀 I’m interested in deep learning and medical image process.
+- 🌱 I’m currently learning Ophthalmic artificial intelligence.
+- 💞️ I’m looking for a PhD position.
+- 📫 My e-mail : zirong_liu@163.com.
 
 <!---
 ZRong-Liu/ZRong-Liu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
